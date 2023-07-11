@@ -1,5 +1,5 @@
 # FlappyPotato
-Flappy Bird game but with potato!
+Flappy Bird game but with a potato!
 
 You can jump by pressing SPACE button!
 
