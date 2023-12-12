@@ -7,4 +7,4 @@ Made using Pygame module
 
 Compiled using Py2exe
 
-Last Updated: 23.11.2023
+Last Updated: 12.12.2023
