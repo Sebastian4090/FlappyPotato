@@ -3,6 +3,10 @@ Flappy Bird game but with a potato!
 
 You can jump by pressing SPACE button!
 
+To start:
+- clone repo
+- click the FlappyPotato.exe
+
 Made using Pygame module
 
 Compiled using Py2exe
